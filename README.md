@@ -1,5 +1,6 @@
 # Investigacion02-DSM
-
+Link video Explicacion y Funcionamiento
+# https://drive.google.com/file/d/1HoT1YmW-3mNaVaugf0zuwMD5MOhqejs7/view?usp=sharing
 # Proyecto Android con Retrofit y Kotlin
 
 Este proyecto Android en Kotlin utiliza Retrofit para conectarse a una API pública y mostrar los datos obtenidos en un `RecyclerView`. También implementa manejo de errores con `Snackbar` para una experiencia de usuario amigable.
