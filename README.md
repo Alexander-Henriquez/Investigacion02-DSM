@@ -1,5 +1,5 @@
 # Investigacion02-DSM
-Link video Explicacion y Funcionamiento
+#Link video Explicacion y Funcionamiento
 # https://drive.google.com/file/d/1HoT1YmW-3mNaVaugf0zuwMD5MOhqejs7/view?usp=sharing
 # Proyecto Android con Retrofit y Kotlin
 
